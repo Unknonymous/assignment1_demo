@@ -1,3 +1,4 @@
 Name: Ray Lee
 Project Goal: Master Git!
 Favorite TV Show: Survivor
+Favorite Quote: "If you cannot explain a thing simply, then you do not understand it." - Einstein
